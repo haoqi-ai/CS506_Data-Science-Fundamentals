@@ -1,6 +1,6 @@
 # Data Science Fundamentals
 
-This repo contains the slides and worksheets for [Boston University's CS 506](https://www.bu.edu/academics/cas/courses/cas-cs-506/) course and aims to:
+This repo contains the slides and the worksheets for [Boston University's CS 506](https://www.bu.edu/academics/cas/courses/cas-cs-506/) course and aims to:
 
 1. Centralize all the content for the course
 2. Make the content more widely accessible
@@ -36,4 +36,4 @@ This repo contains the slides and worksheets for [Boston University's CS 506](ht
 25. Types of Neural Networks
 26. Generative Adversarial Networks
 
-This repo is updated every semester.
+This repo is updated every semester. And the recent version is for Spring 2024. 
